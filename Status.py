@@ -2,7 +2,7 @@ import discord
 from itertools import cycle
 from discord.ext import commands, tasks
 
-status = cycle(['Add ur text here','ur text here','ur text here','ur text here'])  # you can add as much as you want EX: 'Stiizzy cat is hot','Name'
+status = cycle(['Add ur text here','ur text here','ur text here','ur text here'])  # you can add as much as you want
 
 bot = commands.Bot(command_prefix="!") # prefix will not be used for changng status
 
