@@ -1,2 +1,8 @@
-# Discord-Status-Changing
-A simple code to keep changing your message on your discord status
+# Install Requirements
+```pip install -r requirements.txt```
+
+# Usage
+Put your acc token in 
+```python 
+bot.run("Your Token here", bot=False)
+```
